@@ -1,3 +1,4 @@
 node_modules/
 *.txt
 js/
+js/main.js
